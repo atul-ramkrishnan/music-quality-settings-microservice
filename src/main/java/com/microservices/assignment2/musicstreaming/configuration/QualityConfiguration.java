@@ -1,8 +1,8 @@
-package com.microservices.assignment2.musicstreaming;
+package com.microservices.assignment2.musicstreaming.configuration;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 @Component
-@ConfigurationProperties(prefix = "quality")
+@ConfigurationProperties(prefix = "music-streaming")
 public class QualityConfiguration {
     private int freeMinBitrate;
     private int freeMaxBitrate;

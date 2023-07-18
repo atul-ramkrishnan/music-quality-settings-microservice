@@ -1,4 +1,4 @@
-package com.microservices.assignment2.musicstreaming;
+package com.microservices.assignment2.musicstreaming.bean;
 
 public class QualitySettings {
     private int minBitrate;

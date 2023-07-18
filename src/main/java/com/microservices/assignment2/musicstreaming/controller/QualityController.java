@@ -1,5 +1,7 @@
-package com.microservices.assignment2.musicstreaming;
+package com.microservices.assignment2.musicstreaming.controller;
 
+import com.microservices.assignment2.musicstreaming.bean.QualitySettings;
+import com.microservices.assignment2.musicstreaming.configuration.QualityConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
