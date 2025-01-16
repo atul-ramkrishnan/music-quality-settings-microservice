@@ -1,4 +1,4 @@
-# Quality Settings Microservice
+# Music Quality Settings Microservice
 
 This project is a Spring Boot-based microservice designed to manage quality settings for a system. It demonstrates the following key features:
 
